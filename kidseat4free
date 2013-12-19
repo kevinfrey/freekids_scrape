@@ -1,0 +1,370 @@
+<!doctype html>
+<html lang="en">
+
+    
+<head> 
+    <meta charset="utf-8">
+
+    <!-- disable iPhone inital scale -->
+    <meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+    <title>
+        Kids Eat Free - Browse all KidsEat4Free states    </title>
+    <meta name="author" content="Tony Delnay">
+    <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon" />
+    <link rel="canonical" href="http://kidseat4free.com/browse/" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta content="minimum-scale=1.0, width=device-width, maximum-scale=1.0, user-scalable=no" name="viewport" />
+    <meta name="description" content="Browse the US states to find great kids eat free restaurants.">
+    <meta name="keywords" content="kids,eat,free,restaurant,deals,parents,meals,discount">
+
+    <!-- main css -->
+    <link href="/assets/css/style.css" rel="stylesheet" type="text/css">
+
+    <!-- media queries css -->
+    <link href="/assets/css/media-queries.css" rel="stylesheet" type="text/css">
+
+    <!-- html5.js for IE less than 9 -->
+    <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- css3-mediaqueries.js for IE less than 9 -->
+    <!--[if lt IE 9]>
+            <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+
+</head>
+
+    <body>
+
+        <div id="pagewrap">
+
+            <header id="header">
+                <div>
+                    <a href="http://kidseat4free.com"><img src="/assets/images/KE4F-LOGO-MASTER.png" alt="kids eat 4 free" /></a>
+                </div>
+
+                <nav>
+    <ul id="main-nav" class="clearfix">
+        <li><a href="/">Home</a></li>
+        <li><a href="/browse">Browse</a></li>
+        <li><a href="/add">Add</a> </li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/about">About</a></li>
+<!--        <li><a href="/blog">Blog</a></li> -->
+    </ul>
+    <!-- /#main-nav -->
+</nav>
+                <form id="searchform" action="/search" method="post">
+    <input name="searchField" type="search" id="s" placeholder="Search">
+</form>
+            </header>
+            <!-- /#header -->
+
+            <div id="wide-content">
+
+                <div id="google-ads-1"></div>
+
+                <script type="text/javascript">
+
+                    /* Calculate the width of available ad space */
+                    ad = document.getElementById('google-ads-1');
+
+                    if (ad.getBoundingClientRect().width) {
+                        adWidth = ad.getBoundingClientRect().width; // for modern browsers
+                    } else {
+                        adWidth = ad.offsetWidth; // for old IE
+                    }
+
+                    /* Replace ca-pub-XXX with your AdSense Publisher ID */
+                    google_ad_client = "ca-pub-1071592450017825";
+
+                    /* Replace 1234567890 with the AdSense Ad Slot ID */
+                    google_ad_slot = "7496076849";
+                    /* Do not change anything after this line */
+                    if (adWidth >= 728)
+                        google_ad_size = ["728", "90"]; /* Leaderboard 728x90 */
+                    else if (adWidth >= 468)
+                        google_ad_size = ["468", "60"]; /* Banner (468 x 60) */
+                    else if (adWidth >= 336)
+                        google_ad_size = ["336", "280"]; /* Large Rectangle (336 x 280) */
+                    else if (adWidth >= 300)
+                        google_ad_size = ["300", "250"]; /* Medium Rectangle (300 x 250) */
+                    else if (adWidth >= 250)
+                        google_ad_size = ["250", "250"]; /* Square (250 x 250) */
+                    else if (adWidth >= 200)
+                        google_ad_size = ["200", "200"]; /* Small Square (200 x 200) */
+                    else if (adWidth >= 180)
+                        google_ad_size = ["180", "150"]; /* Small Rectangle (180 x 150) */
+                    else
+                        google_ad_size = ["125", "125"]; /* Button (125 x 125) */
+
+                    document.write(
+                            '<ins class="adsbygoogle" style="display:inline-block;width:'
+                            + google_ad_size[0] + 'px;height:'
+                            + google_ad_size[1] + 'px" data-ad-client="'
+                            + google_ad_client + '" data-ad-slot="'
+                            + google_ad_slot + '"></ins>'
+                            );
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+
+                </script>
+
+                <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+                </script>
+
+                <article class="post clearfix">
+
+                    <header>
+                        <h1 class="post-title">Select your state</h1>
+                        <p>
+                            Select your state (and city on the next page) to see where kids can eat for free near you.
+                        </p>
+                    </header>
+                    <br />
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/alabama">Alabama</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/alaska">Alaska</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/arizona">Arizona</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/arkansas">Arkansas</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/california">California</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/colorado">Colorado</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/connecticut">Connecticut</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/delaware">Delaware</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/florida">Florida</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/georgia">Georgia</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/hawaii">Hawaii</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/idaho">Idaho</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/illinois">Illinois</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/indiana">Indiana</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/iowa">Iowa</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/kansas">Kansas</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/kentucky">Kentucky</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/louisiana">Louisiana</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/maine">Maine</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/maryland">Maryland</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/massachusetts">Massachusetts</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/michigan">Michigan</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/minnesota">Minnesota</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/mississippi">Mississippi</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/missouri">Missouri</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/montana">Montana</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/nebraska">Nebraska</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/nevada">Nevada</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/new-hampshire">New Hampshire</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/new-jersey">New Jersey</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/new-mexico">New Mexico</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/new-york">New York</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/north-carolina">North Carolina</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/north-dakota">North Dakota</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/ohio">Ohio</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/oklahoma">Oklahoma</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/oregon">Oregon</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/pennsylvania">Pennsylvania</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/rhode-island">Rhode Island</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/south-carolina">South Carolina</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/south-dakota">South Dakota</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/tennessee">Tennessee</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/texas">Texas</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/utah">Utah</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/vermont">Vermont</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/virginia">Virginia</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/washington">Washington</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/west-virginia">West Virginia</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/wisconsin">Wisconsin</a><br />
+                        </p>
+                                                                    <p style="float:left; width: 150px;">
+                            <a href="/wyoming">Wyoming</a><br />
+                        </p>
+                                        <p style="clear: both;">
+                        Returned 50 matches.
+                    </p>
+
+                </article>
+                <!--/.post-->
+
+                <div id="google-ads-2"></div>
+
+                <script type="text/javascript">
+
+                    /* Calculate the width of available ad space */
+                    ad = document.getElementById('google-ads-2');
+
+                    if (ad.getBoundingClientRect().width) {
+                        adWidth = ad.getBoundingClientRect().width; // for modern browsers
+                    } else {
+                        adWidth = ad.offsetWidth; // for old IE
+                    }
+
+                    /* Replace ca-pub-XXX with your AdSense Publisher ID */
+                    google_ad_client = "ca-pub-1071592450017825";
+
+                    /* Replace 1234567890 with the AdSense Ad Slot ID */
+                    google_ad_slot = "8385347649";
+                    /* Do not change anything after this line */
+                    if (adWidth >= 728)
+                        google_ad_size = ["728", "90"]; /* Leaderboard 728x90 */
+                    else if (adWidth >= 468)
+                        google_ad_size = ["468", "60"]; /* Banner (468 x 60) */
+                    else if (adWidth >= 336)
+                        google_ad_size = ["336", "280"]; /* Large Rectangle (336 x 280) */
+                    else if (adWidth >= 300)
+                        google_ad_size = ["300", "250"]; /* Medium Rectangle (300 x 250) */
+                    else if (adWidth >= 250)
+                        google_ad_size = ["250", "250"]; /* Square (250 x 250) */
+                    else if (adWidth >= 200)
+                        google_ad_size = ["200", "200"]; /* Small Square (200 x 200) */
+                    else if (adWidth >= 180)
+                        google_ad_size = ["180", "150"]; /* Small Rectangle (180 x 150) */
+                    else
+                        google_ad_size = ["125", "125"]; /* Button (125 x 125) */
+
+                    document.write(
+                            '<ins class="adsbygoogle" style="display:inline-block;width:'
+                            + google_ad_size[0] + 'px;height:'
+                            + google_ad_size[1] + 'px" data-ad-client="'
+                            + google_ad_client + '" data-ad-slot="'
+                            + google_ad_slot + '"></ins>'
+                            );
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+
+                </script>
+
+                <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+                </script>
+
+            </div>
+            <!--/#content -->
+
+            <footer id="footer">
+    <p>
+        &copy; KidsEat4Free.com,LLC, PO Box 1013,  PeWee Valley,  KY,  40056 |
+        <a href="/policy/privacy">Privacy Policy</a> |
+        <a href="/policy/disclaimer">Disclaimer</a> |
+        <a href="/policy/termsandconditions">Terms &amp; Conditions</a>
+    </p>
+</footer>
+<!-- /#footer -->
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    var pluginUrl =
+            '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+    _gaq.push(['_setAccount', 'UA-2646359-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+        </div>
+        <!-- /#pagewrap -->
+
+    </body>
+</html>
